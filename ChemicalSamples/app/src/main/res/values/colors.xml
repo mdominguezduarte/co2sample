@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E0A39C</color>
+    <color name="colorPrimaryDark">#FBC7C3</color>
+    <color name="primary_text_color">#F6EFE3</color>
+    <color name="colorAccent">#FABB7C</color>
+    <color name="secondary_text_color">#000000</color>
+    <color name="button_background_color">#E0A39C</color>
+
+    <color name="circular_image_border_color">#757575</color>
+    <color name="item_chemical_place_description_text_color">#606060</color>
+
+    <color name="over_CEL">#EF3939</color>
+    <color name="under_CEL">#CDDC39</color>
+</resources>
